@@ -29,17 +29,28 @@
 		<nature>com.st.stm32cube.ide.mcu.MCURootProjectNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeIdeServicesRevAev2ProjectNature</nature>
 	</natures>
 	<linkedResources>
 		<link>
+			<name>libBH1750</name>
+			<type>2</type>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/libBH1750</locationURI>
+		</link>
+		<link>
+			<name>libatcommands</name>
+			<type>2</type>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/libatcommands</locationURI>
+		</link>
+		<link>
 			<name>smartlight</name>
 			<type>2</type>
-			<location>E:/project/_my/_device_development/CubeIDEWorkspace/SmartLight/smartlight</location>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/smartlight</locationURI>
 		</link>
 		<link>
 			<name>ssd1306</name>
 			<type>2</type>
-			<location>E:/project/_my/_device_development/CubeIDEWorkspace/SmartLight/ssd1306</location>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/libSSD1306</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

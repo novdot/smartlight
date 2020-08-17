@@ -34,12 +34,12 @@
 		<link>
 			<name>smartlight</name>
 			<type>2</type>
-			<location>E:/project/_my/_device_development/CubeIDEWorkspace/SmartLight/smartlight</location>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/smartlight</locationURI>
 		</link>
 		<link>
 			<name>ssd1306</name>
 			<type>2</type>
-			<location>E:/project/_my/_device_development/CubeIDEWorkspace/SmartLight/ssd1306</location>
+			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/libSSD1306</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
